@@ -8,7 +8,7 @@
 Senior Data Scientist with a focus on machine learning, working on confidential projects at an esteemed organization.
 
 ☕ Late Night Coffee Connoisseur: 
-Late nights are when my creativity flows best, fueled by the aroma of a freshly brewed coffee. Whether it's diving into code, dissecting data, or watching a thrilling basketball game, you'll often find me sipping a cup of joe in the wee hours.
+Late nights are when my creativity flows best, fueled by the aroma of a freshly brewed coffee. Whether it's diving into code, dissecting data, or watching a thrilling basketball game 🏀.
 
 ![About Me GIF](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473vgo4l6esk0jyr3szmsqvcwkvho8kj4n22jjwu4r&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -35,4 +35,4 @@ Late nights are when my creativity flows best, fueled by the aroma of a freshly 
 - [LinkedIn](https://www.linkedin.com/in/abdulrahmanalmutlaq/)
 - [Twitter](https://twitter.com/Abdulrahman_im)
 
-Let's chat about machine learning, but remember, my current projects are top secret! 🤐
+Let's chat about machine learning, but remember, my current projects are top secret! 🔥🤐
