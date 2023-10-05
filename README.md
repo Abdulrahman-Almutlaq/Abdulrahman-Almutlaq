@@ -29,5 +29,6 @@ I'm Abdulrahman Almutlaq, a Senior Data Scientist with a focus on machine learni
 🌐 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/abdulrahmanalmutlaq/)
 - [Twitter](https://twitter.com/Abdulrahman_im)
+- [Medium](https://medium.com/@abdulrahman-almutlaq)
 
 Let's chat about machine learning, but remember, my current projects are top secret! 🤐🔥
